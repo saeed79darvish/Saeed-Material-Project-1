@@ -18,9 +18,9 @@
 <resources>
 
     <!--Primaries-->
-    <color name="primary">#009688</color>
-    <color name="primaryDark">#00695C</color>
-    <color name="primaryLight">#4DB6AC</color>
+    <color name="colorPrimary">#9c27b0</color>
+    <color name="colorPrimaryDark">#6a0080</color>
+    <color name="colorAccent">#ffab00</color>
 
     <!--ArticleDetails-->
     <color name="detail_title">#FFF</color>
